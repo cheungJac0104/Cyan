@@ -14,9 +14,7 @@ public:
 	}
 };
 
-void main() 
+Cyan::Application* Cyan::CreateApplication()
 {
-	SandBox* sandbox = new SandBox();
-	sandbox->Run();
-	delete sandbox;
+	return new SandBox();
 }

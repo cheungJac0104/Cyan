@@ -83,6 +83,7 @@
     <ClInclude Include="src\Cyan.h" />
     <ClInclude Include="src\Cyan\Application.h" />
     <ClInclude Include="src\Cyan\Core.h" />
+    <ClInclude Include="src\Cyan\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Cyan\Application.cpp" />

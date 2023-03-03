@@ -11,6 +11,9 @@ namespace Cyan{
 
 		void Run();
 	};
+
+	// To be define in CLIENT
+	Application* CreateApplication();
 }
 
 
