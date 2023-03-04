@@ -2,6 +2,7 @@
 
 // For use by Cyan applications
 #include "Cyan/Application.h"
+#include "Cyan/Log.h"
 
 //--------Usage Library----------------------
 #include "stdio.h";

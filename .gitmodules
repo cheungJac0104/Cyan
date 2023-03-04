@@ -1,0 +1,3 @@
+[submodule "Cyan/vendor/spdlog"]
+	path = Cyan/vendor/spdlog
+	url = https://github.com/gabime/spdlog
